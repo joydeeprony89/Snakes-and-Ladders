@@ -18,7 +18,7 @@ namespace Snakes_and_Ladders
 
   public class Solution
   {
-    / https://www.youtube.com/watch?v=6lH4nO3JfLk
+    // https://www.youtube.com/watch?v=6lH4nO3JfLk
     public int SnakesAndLadders(int[][] board)
     {
       // Will be solving this using BFS
